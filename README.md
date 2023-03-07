@@ -25,4 +25,8 @@
 (Email:park_booking@gmail.com)<br>
 (Password:12345678)<br>
 13):Now you are done Enjoy the bookings!<br>
-https://github.com/ahmedjilani/PHP_ParkBooking/blob/3c184460dce8721f7a292211e170bc2bf55e7740/3.PNG
+<p align="center">
+  <img src="https://github.com/ahmedjilani/PHP_ParkBooking/blob/3c184460dce8721f7a292211e170bc2bf55e7740/3.PNG" width="350" title="hover text">
+  <img src="[your_relative_path_here_number_2_large_name](https://github.com/ahmedjilani/PHP_ParkBooking/blob/2cd8d3916e2b183f665737a39270b6a6d0f6be2c/2.PNG)" width="350" alt="accessibility text">
+</p>
+
