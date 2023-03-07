@@ -25,4 +25,4 @@
 (Email:park_booking@gmail.com)<br>
 (Password:12345678)<br>
 13):Now you are done Enjoy the bookings!<br>
-![alt text](https://github.com/ahmedjilani/PHP_ParkBooking/blob/master/3.png?raw=true)
+https://github.com/ahmedjilani/PHP_ParkBooking/blob/3c184460dce8721f7a292211e170bc2bf55e7740/3.PNG
